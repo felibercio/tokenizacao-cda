@@ -1,0 +1,54 @@
+{
+  "labels": [
+    {
+      "name": "🐛 bug",
+      "color": "d73a4a",
+      "description": "Algo não está funcionando"
+    },
+    {
+      "name": "✨ enhancement",
+      "color": "a2eeef",
+      "description": "Nova feature ou melhoria"
+    },
+    {
+      "name": "📝 documentation",
+      "color": "0075ca",
+      "description": "Melhorias ou atualizações na documentação"
+    },
+    {
+      "name": "🧪 test",
+      "color": "c2e0c6",
+      "description": "Adicionando ou corrigindo testes"
+    },
+    {
+      "name": "♻️ refactor",
+      "color": "7057ff",
+      "description": "Refatoração de código"
+    },
+    {
+      "name": "🚀 deploy",
+      "color": "5319e7",
+      "description": "Deploy em produção"
+    },
+    {
+      "name": "🔒 security",
+      "color": "ff0000",
+      "description": "Questões de segurança"
+    },
+    {
+      "name": "🔧 config",
+      "color": "fbca04",
+      "description": "Configurações do projeto"
+    },
+    {
+      "name": "⏳ wip",
+      "color": "f9d0c4",
+      "description": "Trabalho em progresso"
+    },
+    {
+      "name": "✅ ready",
+      "color": "0e8a16",
+      "description": "Pronto para revisão"
+    }
+  ]
+} 
